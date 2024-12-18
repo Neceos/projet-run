@@ -1,1 +1,1 @@
-Direct link : https://github.com/Neceos/projet-run.git
+Direct link : https://neceos.github.io/projet-run/
